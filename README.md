@@ -1,3 +1,7 @@
+2021-02-28 初版思路:imgur+chat功能(差异化点：chart功能只提供图片聊天功能，imgur提供用户上传emoji能力，我们的目标其实也是让用户用我们的app来做emoji聊天交流)
+
+
+
 <p align="center" >
 <p align="center" >
    <a href="https://reactnative.gallery/FaridSafi/gifted-chat">
